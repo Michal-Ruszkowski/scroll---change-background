@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0
+}
+
+.oldBg{
+    background-color: dimgray;
+    height:100vh;
+    font-size:24px;
+    text-align: justify;
+}
+
+p{
+    padding:10vh 10vw
+}
+
+.newBg{
+    background-color: firebrick;
+}
